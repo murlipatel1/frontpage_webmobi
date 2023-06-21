@@ -5,10 +5,9 @@ export const Success = () => {
     <>
       <div className="card bg-primary h-50 bg-none">
         <div className="card-body card-img-overlay">
-          <h3 className="card-title text-center">Special title treatment</h3>
-          <h5 className="card-text text-center">
-            With supporting text below as a natural lead-in to additional
-            content.
+          <h3 className="card-title text-center text-white">Success Stories</h3>
+          <h5 className="card-text text-center text-white">
+            Over the years , we have hepled numerous successfully establish their development centers. Join the roster of our successful collaborations.
           </h5>
         </div>
         <img

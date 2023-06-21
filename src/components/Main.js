@@ -1,6 +1,5 @@
 import React from "react";
 import main from "./images/main.png";
-import panateam from "./images/Creative_team-pana_1-removebg-preview.png";
 export const Main = () => {
   return (
     <>
@@ -14,7 +13,7 @@ export const Main = () => {
           <h5 className="card-text text-center">
             Buliding Bridges to success in the tech ecosystem.
           </h5>
-          <div className="bg-primary mx-0" style={{marginTop:"30rem"}}>
+          <div className="bg-info mx-0" style={{marginTop:"30rem"}}>
             <h2 className="text-white">About Us</h2>
             <p className="text-white h4">With over 3 years of experience , we at Incubyte apecialize in setting up captive development ceters for growing startups, addressing key challenges key challenges and providing tailor-made solutions for your business needs.</p>
             </div>

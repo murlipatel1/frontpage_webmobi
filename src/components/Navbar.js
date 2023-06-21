@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light p-3">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light p-3" style={{zIndex:"1000",position:"fixed", width:"95rem"}}>
       <span class="navbar-brand mb-0 h1 text-primary">
         Incubyte
         </span>
